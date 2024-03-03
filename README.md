@@ -13,3 +13,11 @@ Meu objetivo aqui no GitHub é conectar-me com outros profissionais da área, co
 ## Contato
 - LinkedIn: [Zotano](https://www.linkedin.com/in/otavio-profeta/)
 - Email: otavioprofeta48@gmail.com
+
+<div>
+ <a href="https://github.com/OtavioProfeta">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zotano&show_icons=true&theme=dracula"/></a>
+  <a href="https://github.com/OtavioProfeta" style="margin-left: 8px;">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zotano&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
+</div>
